@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "66660835bb56b6b4d783284e"
+  },
+  "city": "San Miguel De Tucuman",
+  "country": "Argentina",
+  "temperature": "25.8",
+  "condition": "Soleado",
+  "createdAt": {
+    "$date": "2024-06-09T19:53:25.362Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T19:53:25.362Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6666396dbb56b6b4d7832850"
+  },
+  "city": "Alderetes",
+  "country": "Argentina",
+  "temperature": "19",
+  "condition": "Despejado",
+  "createdAt": {
+    "$date": "2024-06-09T23:23:25.422Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T23:23:25.422Z"
+  },
+  "__v": 0
+}]
